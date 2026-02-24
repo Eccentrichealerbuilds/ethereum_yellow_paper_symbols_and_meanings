@@ -659,3 +659,4 @@
 | 0xfd | REVERT | 2 | 0 | Halt, undo all state changes, return data + remaining gas |
 | 0xfe | INVALID | — | — | Designated invalid instruction (consumes all gas) |
 | 0xff | SELFDESTRUCT | 1 | 0 | Schedule contract for deletion, send balance to recipient (deprecated) |
+
